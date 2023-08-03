@@ -1,0 +1,1 @@
+!function(n){const o=n.bn=n.bn||{};o.dictionary=Object.assign(o.dictionary||{},{"Choose language":"ভাষা নির্বাচন করুন",Language:"ভাষা","Remove language":"ভাষা মুছে ফেলুন"}),o.getPluralForm=function(n){return 1!=n}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
