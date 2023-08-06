@@ -44,7 +44,7 @@ module OpenProject::TextFormatting::Formats::Markdown
       [
         OpenProject::TextFormatting::Filters::SettingMacrosFilter,
         OpenProject::TextFormatting::Filters::MarkdownFilter,
-        OpenProject::TextFormatting::Filters::SanitizationFilter,
+        # OpenProject::TextFormatting::Filters::SanitizationFilter,
         OpenProject::TextFormatting::Filters::TaskListFilter,
         OpenProject::TextFormatting::Filters::TableOfContentsFilter,
         OpenProject::TextFormatting::Filters::MacroFilter,
